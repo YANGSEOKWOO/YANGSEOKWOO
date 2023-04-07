@@ -15,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Tech Stack
+ ## 나는
+ 
+ -- 추가예정 --
+ 
+ 
+ #### Tech Stack
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+ -- 추가예정 --
+ 
+ 
+ #### Studying
+ 
+ #### Interest
+ 
+ #### Algorithm
