@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:#8b00ff&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:#803380&height=300&section=header&text=capsule%20render&fontSize=90)
  ## 나는
  
  -- 추가예정 --
