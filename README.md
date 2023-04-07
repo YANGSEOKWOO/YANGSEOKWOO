@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=YangSeokWoo%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=YangSeokWoo%20&fontSize=90)
  ## 나는
  
  -- 추가예정 --
