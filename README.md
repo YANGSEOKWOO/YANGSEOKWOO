@@ -29,4 +29,4 @@ Here are some ideas to get you started:
  
  #### Algorithm
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={didtjrdn030})](https://solved.ac/{didtjrdn030})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={didtjrdn030})](https://solved.ac/{didtjrdn030})
